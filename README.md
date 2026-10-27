@@ -1,6 +1,7 @@
 ## Hi, I'm Nehemias Landaverde
 
 Computer Science at Montclair State University ('28). I build full-stack web apps and interactive 3D, and I handle deployment and security myself.
+
 **Open to software engineering internships and early-career roles.**
 
 [Portfolio](https://nehemiaslandaverde.com) · [LinkedIn](https://www.linkedin.com/in/nehemiaslandaverde/) · [Résumé](https://nehemiaslandaverde.com/Nehemias-Landaverde-Resume.pdf)
@@ -62,7 +63,7 @@ A game season-pass screen in Unreal Engine 5: 20 reward tiers, free and premium 
 
 ### Tools I use
 
-**Languages:** Python · Java · C · C++ · TypeScript · JavaScript · SQL
-**Web:** React · Next.js · Node · Supabase · PostgreSQL · Tailwind
-**3D and games:** three.js · Blender (Python) · Unreal Engine 5
-**Cloud:** Azure · Cloudflare · Vercel · Git
+- **Languages:** Python · Java · C · C++ · TypeScript · JavaScript · SQL
+- **Web:** React · Next.js · Node · Supabase · PostgreSQL · Tailwind
+- **3D and games:** three.js · Blender (Python) · Unreal Engine 5
+- **Cloud:** Azure · Cloudflare · Vercel · Git
